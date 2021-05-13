@@ -1,9 +1,11 @@
 # Proyecto_XML
 Proyecto 2º Evaluacion XML
 
-# Ejercicios XML
-* Ejercicio 1: Lista de localizacion.
-* Ejercicio 2: ¿Cuantos equipos aparecen?.
-* Ejercicio 3: Dime un numero de victorias y muestra  que equipos han conseguido ese numero de victorias.
-* Ejercicio 4: Pide una serie de stats, para que te muestre el nombre del equipo al que hace referencia.
-* Ejercicio 5: Te pido que me diga el nombre de uno de los lados y dime cuantos equipos hay en el lado que has escrito.
+# Enunciado XML:
+El fichero XML contiene información sobre grupos de música y sus albunes.
+
+* **Listar información:** Muestra los diferentes Autores/Grupos que contiene.
+* **Contar información:** Muestra cuantos albunes tiene cada grupo.
+* **Buscar o filtrar información:** Si se introduce un autor muestra sus albunes, si introduce un album se muestra sus canciones.
+* **Buscar información relacionada:** Si se introduce una canción, se muestra el album y su autor.
+* **Ejercicio libre:** Si se introduce un grupo, se muestra toda su discografia y los enlaces a cada uno de sus albunes.
